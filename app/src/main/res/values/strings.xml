@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Калькулятор топлива</string>
+    <string name="distance">Дистанция</string>
+    <string name="fuel_consumption_per_100_km">Расход на 100 км</string>
+    <string name="fuel_price">Цена за 1 литр</string>
+    <string name="calculate">Рассчитать</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="spent_fuel">Израсходовано топлива</string>
+    <string name="distance_covered">Пройденное расстояние</string>
+    <string name="consumption_per_100_km">Расход на 100 км</string>
+    <string name="fuel_type">Вид топлива</string>
+    <string name="rub">Рубль</string>
+    <string name="dollar">Доллар</string>
+    <string name="euro">Евро</string>
+    <string name="travel_cost">Путешествие</string>
+    <string name="consumption">Расход топлива</string>
+    <string name="prices">Цены</string>
+    <string name="sum_of_fuel">Сумма</string>
+    <string name="used_up_fuel">Понадобится топлива</string>
+</resources>
